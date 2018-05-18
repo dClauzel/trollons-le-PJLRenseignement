@@ -18,7 +18,7 @@ L’injection de l’en-tête personnalisé `X-PJLRenseignement` est réalisée 
 
 Il existe un [exemple de page en ligne](https://clauzel.eu/PJLRenseignement/).
 
-* les [en-têtes HTTP](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields/) ;
+* les [en-têtes HTTP](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields) ;
 * le [Projet de Loi relatif au renseignement](https://wiki.laquadrature.net/Portail:Loi_Renseignement).
 
 # Licence
